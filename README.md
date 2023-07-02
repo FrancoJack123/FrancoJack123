@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Moreno Jack Franco</h1>
+    <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> I'm Moreno Jack Franco</h1>
     <h3 align="center">A passionate full stack web developer from Peru I like Programming.</h3>
 </div>
 ---
